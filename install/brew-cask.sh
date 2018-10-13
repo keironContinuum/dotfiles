@@ -15,14 +15,12 @@ apps=(
   macdown
   microsoft-office
   skype
-  slack
   spotify
   vlc
   rescuetime
   imageoptim
   firefox
   chromium
-  google-chrome
   google-chrome-canary
   opera
   vagrant
