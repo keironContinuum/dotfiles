@@ -1,12 +1,12 @@
 [user]
-	name = David Bonner
-	email = 534654+davidianbonner@users.noreply.github.com
+	name = Keiron McGivern
+	email = keiron@continuum.agency
 
 [github]
-  user = dbonner1987
+  user = keironContinuum
 
 [core]
-	excludesfile = /Users/davidbonner/.gitignore_global
+	excludesfile = /Users/keironmcgivern/.gitignore_global
   editor = vim
   filemode = false
   trustctime = false
@@ -106,4 +106,4 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 [commit]
-	template = /Users/davidbonner/.stCommitMsg
+	template = /Users/keironmcgivern/.stCommitMsg
