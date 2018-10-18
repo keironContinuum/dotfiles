@@ -13,6 +13,8 @@ apps=(
   hammerspoon
   jumpcut
   macdown
+  google-chrome
+  slack
   microsoft-office
   skype
   spotify
