@@ -36,12 +36,12 @@ apps=(
   virtualbox
   postman
   postico
-  sublime-text
   sketch
   tableplus
   deco
   docker
   kitematic
+  rekordbox
   # Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
   qlcolorcode
   qlstephen
