@@ -17,16 +17,13 @@ apps=(
   slack
   microsoft-office
   skype
-  spotify
   vlc
-  rescuetime
   imageoptim
   firefox
   chromium
   google-chrome-canary
   opera
   vagrant
-  sequel-pro
   psequel
   iterm2
   visual-studio-code
