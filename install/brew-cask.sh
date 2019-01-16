@@ -46,7 +46,6 @@ apps=(
   quicklook-json
   qlprettypatch
   quicklook-csv
-  qlimagesize
   webpquicklook
   suspicious-package
 )
