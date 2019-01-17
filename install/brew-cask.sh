@@ -15,7 +15,6 @@ apps=(
   macdown
   google-chrome
   slack
-  microsoft-office
   skype
   vlc
   imageoptim
@@ -34,11 +33,11 @@ apps=(
   postman
   postico
   sketch
+  sequel-pro
   tableplus
   deco
   docker
   kitematic
-  rekordbox
   # Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
   qlcolorcode
   qlstephen
